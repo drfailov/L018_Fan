@@ -5,8 +5,8 @@ This custom fan controller adjusts fan speed based on real sensor data, making t
 An optional OLED display can be connected for real-time monitoring.
 
 <p align="center">
-  <img src="Images/Schematic.png" width="300"/>
-  <img src="Images/photo_2025-05-07_21-51-23.jpg" width="300"/>
+  <img src="Images/Schematic.png" width="500"/>
+  <img src="Images/photo_2025-05-07_21-51-23.jpg" width="200"/>
 </p>
 
 ## 🛠️ Setup Instructions
