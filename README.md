@@ -2,7 +2,6 @@
 
 Most Chinese projectors run their fans at full power, regardless of temperature.  
 This custom fan controller adjusts fan speed based on real sensor data, making the projector quieter.  
-An optional OLED display can be connected for real-time monitoring.
 
 <p align="center">
   <img src="Images/Schematic.png" width="600"/>
